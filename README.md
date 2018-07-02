@@ -1,1 +1,4 @@
 # NetWorking
+iOS网络层架构小demo
+参考开源库：DRDNetworking、YYModel两个库写了一个小demo显示城市列表。
+对于新项目搭建网络层时候可以参考这个demo架构app的网络层
